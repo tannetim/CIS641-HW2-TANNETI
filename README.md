@@ -9,4 +9,5 @@ I have over 5 years experience as DBA in which I worked
 on ICICI BANK.
 my favoutire meme
 https://gifdb.com/gif/baby-falling-asleep-sleep-mode-activated-meme-zwwmyapctgyl9vfh.html
-[Team page] (https://saitammineedi19.github.io/GVSU-CIS641-TEAM-GDMS/)
+## Team page 
+https://saitammineedi19.github.io/GVSU-CIS641-TEAM-GDMS/
